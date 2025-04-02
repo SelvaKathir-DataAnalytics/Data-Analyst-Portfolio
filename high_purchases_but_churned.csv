@@ -1,0 +1,11 @@
+Customer_ID,Region,Subscription_Type,Monthly_Spend,Total_Purchases,Churn
+1014,East,Basic,114,15,Yes
+1024,West,Basic,162,13,Yes
+1026,South,Premium,598,11,Yes
+1028,South,Basic,491,13,Yes
+1033,West,Standard,872,13,Yes
+1036,North,Basic,140,12,Yes
+1037,West,Premium,127,11,Yes
+1041,East,Standard,879,13,Yes
+1047,West,Premium,827,9,Yes
+1050,South,Basic,783,19,Yes

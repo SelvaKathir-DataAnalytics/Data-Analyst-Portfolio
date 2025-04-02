@@ -1,0 +1,6 @@
+Customer_ID,Region,Subscription_Type,Monthly_Spend,Total_Purchases,Churn
+1004,East,Premium,978,3,Yes
+1017,West,Standard,956,13,No
+1040,East,Standard,939,1,No
+1018,West,Basic,938,19,No
+1015,West,Standard,912,15,No
