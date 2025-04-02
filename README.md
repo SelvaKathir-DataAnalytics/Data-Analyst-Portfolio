@@ -11,18 +11,14 @@ Welcome to my Data Analyst portfolio! Here, I showcase my projects in data analy
 
 ## 📂 Projects
 
-## 📂 Projects
-
-## 📂 Projects
-
 ### 📊 Sales Data Analysis using Python & Pandas
 - **Objective:** Analyze sales data to find best-selling products and regional sales trends.
 - **Skills Used:** Python, Pandas, Data Cleaning, Data Visualization, Matplotlib
 - **Findings:**
   - The **best-selling product** was `Laptop`.
   - The **region with the highest sales** was `North`.
-- 🔗 [View Code](https://github.com/your-username/Data-Analyst-Portfolio/blob/main/sales_analysis.py)  
-- 📊 [View Dataset](https://github.com/your-username/Data-Analyst-Portfolio/blob/main/sales_data.csv)  
+- 🔗 [View Code]([https://github.com/your-username/Data-Analyst-Portfolio/blob/main/sales_analysis.py](https://raw.githubusercontent.com/SelvaKathir-DataAnalytics/Data-Analyst-Portfolio/refs/heads/main/Sales_analysis.py))  
+- 📊 [View Dataset]([https://github.com/your-username/Data-Analyst-Portfolio/blob/main/sales_data.csv](https://raw.githubusercontent.com/SelvaKathir-DataAnalytics/Data-Analyst-Portfolio/refs/heads/main/sales_data.csv))  
 - 📈 [View Results](https://github.com/your-username/Data-Analyst-Portfolio/blob/main/sales_per_product.csv)
 
 
