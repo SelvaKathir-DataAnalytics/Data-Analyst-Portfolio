@@ -19,7 +19,7 @@ Welcome to my Data Analyst portfolio! Here, I showcase my projects in data analy
   - The **region with the highest sales** was `North`.
 - 🔗 [View Code](https://raw.githubusercontent.com/SelvaKathir-DataAnalytics/Data-Analyst-Portfolio/refs/heads/main/Sales_analysis.py)  
 - 📊 [View Dataset](https://raw.githubusercontent.com/SelvaKathir-DataAnalytics/Data-Analyst-Portfolio/refs/heads/main/sales_data.csv)  
-- 📈 [View Results](https://github.com/your-username/Data-Analyst-Portfolio/blob/main/sales_per_product.csv)
+- 📈 [View Results](https://raw.githubusercontent.com/SelvaKathir-DataAnalytics/Data-Analyst-Portfolio/refs/heads/main/sales_per_product.csv)
 
 
 
