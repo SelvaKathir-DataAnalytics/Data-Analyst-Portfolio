@@ -11,11 +11,21 @@ Welcome to my Data Analyst portfolio! Here, I showcase my projects in data analy
 
 ## 📂 Projects
 
-### 1️⃣ Sales Data Analysis (Python, Pandas)
-- **Goal:** Perform exploratory data analysis (EDA) on sales data.  
-- **Skills Used:** Data cleaning, visualization, and insights extraction.  
-- **Results:** Found key trends in product sales and customer behavior.  
-- 🔗 [GitHub Code](#) | 📊 [Power BI Dashboard](#)
+## 📂 Projects
+
+## 📂 Projects
+
+### 📊 Sales Data Analysis using Python & Pandas
+- **Objective:** Analyze sales data to find best-selling products and regional sales trends.
+- **Skills Used:** Python, Pandas, Data Cleaning, Data Visualization, Matplotlib
+- **Findings:**
+  - The **best-selling product** was `Laptop`.
+  - The **region with the highest sales** was `North`.
+- 🔗 [View Code](https://github.com/your-username/Data-Analyst-Portfolio/blob/main/sales_analysis.py)  
+- 📊 [View Dataset](https://github.com/your-username/Data-Analyst-Portfolio/blob/main/sales_data.csv)  
+- 📈 [View Results](https://github.com/your-username/Data-Analyst-Portfolio/blob/main/sales_per_product.csv)
+
+
 
 ## 📞 Connect with Me
 - 💼 [LinkedIn](#)  
